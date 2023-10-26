@@ -27,11 +27,10 @@ Those its some screenshots of how the program looks like.
 ---
 -->
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
 ## Acknowledgements
 
  - The [Tiktok](https://vm.tiktok.com/ZGJKfAsbX/) that give me the idea.
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
