@@ -1,7 +1,7 @@
 
 ![Logo](/resources/PassGen-logo.png)
 # 🎃 passGen 🎃
-PassGen its simple program what it is an easy way to generate an customizable password (easy/medium/harder)
+PassGen is a simple program and an easy way to generate a customizable password (easy/medium/hard)
 
 ---
 
