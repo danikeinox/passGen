@@ -1,5 +1,5 @@
 
-![Logo](/assets/PassGen-logo.png)
+![Logo](/assets/images/logo.png)
 # 🎃 passGen 🎃
 PassGen is a simple program and an easy way to generate a customizable password (easy/medium/hard)
 
