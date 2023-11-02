@@ -97,11 +97,18 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
+              FadeInImage.assetNetwork(
+                placeholder: 'assets/images/logo.jpg',
+                image:'https://raw.githubusercontent.com/danikeinox/passGen/main/assets/images/logo.png'
+                ),
+              /*
               Image.network(
-                'https://raw.githubusercontent.com/danikeinox/passGen/main/assets/PassGen-logo.png',
+                'https://raw.githubusercontent.com/danikeinox/passGen/main/assets/images/logo.png',
                 width: 200,
                 height: 200,
+
               ),
+              */
               CheckboxListTile(
                 value: isEnabledSymbols,
                 title: const Text('Enable Symbols'),
