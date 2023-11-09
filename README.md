@@ -1,6 +1,6 @@
 
 ![Logo](/assets/images/logo.png)
-# 🎃 passGen 🎃
+# Flutter passGen 
 PassGen is a simple program and an easy way to generate a customizable password (easy/medium/hard)
 
 ---
